@@ -3,11 +3,11 @@
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/brad-jones/goconstruct)](https://pkg.go.dev/github.com/brad-jones/goconstruct)
 [![GoReport](https://goreportcard.com/badge/github.com/brad-jones/goconstruct)](https://goreportcard.com/report/github.com/brad-jones/goconstruct)
 [![GoLang](https://img.shields.io/badge/golang-%3E%3D%201.15.1-lightblue.svg)](https://golang.org)
-![.github/workflows/main.yml](https://github.com/brad-jones/goprefix/workflows/.github/workflows/main.yml/badge.svg?branch=master)
+![.github/workflows/main.yml](https://github.com/brad-jones/goconstruct/workflows/.github/workflows/main.yml/badge.svg?branch=master)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![KeepAChangelog](https://img.shields.io/badge/Keep%20A%20Changelog-1.0.0-%23E05735)](https://keepachangelog.com/)
-[![License](https://img.shields.io/github/license/brad-jones/goprefix.svg)](https://github.com/brad-jones/goprefix/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/brad-jones/goconstruct.svg)](https://github.com/brad-jones/goconstruct/blob/master/LICENSE)
 
 A _"go"_ version of [github.com/aws/constructs](https://github.com/aws/constructs),
 based on functions instead of classes.
