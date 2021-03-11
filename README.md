@@ -169,3 +169,7 @@ have always left something to be desired.
 At work _([Xero](https://www.xero.com))_ I can also see other advantages of being
 able to create a binary artifact in a CI/CD pipeline that represents a particular
 version of a stack.
+
+### Next Idea
+
+Ok so this is just another failed expirement of mine, my next idea is to get the CDK (& the tf version of the CDK) working in https://deno.land/
